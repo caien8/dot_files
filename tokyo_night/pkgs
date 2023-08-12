@@ -1,0 +1,59 @@
+paru -S {
+
+kitty 
+polybar
+rofi
+bspwm-rounded-corners-git
+xdg-user-dirs      ( directory management)
+xorg
+pavucontrol
+xfce4-power-manager  ( brightness, power...)
+feh
+lxappearance   ( apperance mangement)
+papirus-icon-theme
+file-roller     ( archive management)
+gtk-engines 
+gtk-engine-murrine 
+neofetch
+imagemagick   (image manipulation, screenshot)
+xclip  ( copy and paste utility)  
+maim ( screehshot)
+gpick  ( mouse pointer, colors,...)
+curl
+jq   (json utility)
+tint2   ( pannel > onclick - terminal,manager..)
+moreutils (additional utilites)
+recode
+dunst (notifications)
+plank (dock)
+python-xdg
+redshift (color temperature adjustment)
+mate-polkit ( authentication agent)
+xfce4-settings ( settings )
+mpv (media player)
+yaru-sound-theme  ( ubuntu theme)
+alsa-utils ( kernal driven sound cards)
+slim ( login manager)
+xorg-xinit
+brightnessctl 
+acpi ( power interface/management)
+mugshot (user profile(profile pic,name..) management)
+playerctl
+python-pytz
+glava  ( audio visualizer like cava)
+wmctrl (windoe manager controller)
+i3lock-color  (screen lock)
+jgmenu  (menu)
+inter-font
+networkmanager-dmenu-git
+conky-lua ( screen widgets)
+bsp-layout
+zscroll
+noise-suppression-for-voice
+starship
+system76-power
+lsof ( list open files)
+xdo ( window actions)
+
+
+

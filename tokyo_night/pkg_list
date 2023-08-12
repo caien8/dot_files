@@ -1,0 +1,27 @@
+
+# PACMAN
+
+xorg
+xorg-xinit
+sxhkd 
+dmenu
+feh 
+picom
+kitty 
+firefox
+arandr 
+thunar
+kate
+neovim
+git 
+polybar
+pacman-contrib
+alsa-utils
+paru
+xdg-user-dirs
+
+# PARU
+
+bspwm-rounded-corners-git
+
+
